@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1760455965 source:/home/acherontas/codeblocks/cdi_pol_diar_arm64/sum_cdi.cpp
+	"sum_cdi.h"
+
+1758893193 /home/acherontas/codeblocks/cdi_pol_diar_arm64/sum_cdi.h
+	<iostream>
+	<string>
+	<math.h>
+	<iomanip>
+
+1763041485 source:/home/acherontas/codeblocks/cdi_pol_diar_arm64/main.cpp
+	<iostream>
+	"of_numbers.h"
+
+1763041485 /home/acherontas/codeblocks/cdi_pol_diar_arm64/of_numbers.h
+
+1763041485 source:/home/acherontas/codeblocks/cdi_pol_diar_arm64/of_numbers.cpp
+	"of_numbers.h"
+	<iomanip>
+	"math.h"
+	"sum_cdi.h"
+
